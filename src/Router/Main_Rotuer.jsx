@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import About from '../Components/About'
+import Blog from '../Components/Blog'
 import Product from '../Components/Product'
 import Conact from '../Components/Conact'
 import Search from '../Components/Search'
@@ -12,7 +12,7 @@ function Main_Rotuer() {
   return (
     <Routes>
         <Route path = "/" element ={<Navebar_one/>}>
-        <Route path='About' element= {<About/>}/>
+        <Route path='Blog' element= {<Blog/>}/>
         <Route path='Product' element ={<Product/>}/>
         <Route path='Conact' element ={<Conact/>}/>
         <Route path='Help' element ={<Help/>}/>

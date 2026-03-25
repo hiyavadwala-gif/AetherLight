@@ -17,7 +17,7 @@ function Navebar_one() {
 
                         <Navbar href="#Navbar"><Link to="/">Navbar</Link></Navbar>
                         <Nav className="me-auto">
-                            <Nav href="#About"> <Link to="About">About</Link></Nav>
+                            <Nav href="#Blog"> <Link to="Blog">Blog</Link></Nav>
 
 
                             <Nav href="#Product"><Link to="Product">Product</Link></Nav>
