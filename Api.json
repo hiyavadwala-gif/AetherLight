@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "name": "Kavy Patel",
+      "password": "kavy@1304",
+      "email": "kavypatel6425@gmail.com",
+      "id": "1",
+      "role": "1"
+    },
+    {
+      "name": "Het Patel",
+      "password": "het@1234",
+      "email": "het@gmail.com",
+      "id": "2",
+      "role": "2"
+    },
+    {
+      "name": "Hiya",
+      "password": "hiya@2525",
+      "email": "hiya@gmail.com",
+      "id": "3",
+      "role": "2"
+    },
+    {
+      "name": "Aastha",
+      "password": "aastha@2525",
+      "email": "aastha@gmail.com",
+      "id": "4",
+      "role": "2"
+    },
+    {
+      "name": "Anjali",
+      "password": "anjali@1234",
+      "email": "anjali@gmail.com",
+      "id": "5",
+      "role": "2"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "₹ 59,000",
+      "image": "./src/assets/hanging_cart_1.png"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "₹ 128,000",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "₹ 52,000",
+      "image": ""
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
